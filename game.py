@@ -90,4 +90,4 @@ else:
         life = life + 1
         print(f"{name} life left: {no_of_life-life}")
 
-    ################################Game by Naitik Kapadia #################
+    ################################Game by IamArjun078#################
